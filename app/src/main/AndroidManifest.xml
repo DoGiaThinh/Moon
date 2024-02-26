@@ -21,12 +21,6 @@
             android:label="@string/title_activity_forgot_pass_code"
             android:theme="@style/Theme.Moon" />
         <activity
-            android:name=".activities.ForgotPassAcrtivity"
-            android:exported="false" />
-        <activity
-            android:name=".activities.LoginPassActivity"
-            android:exported="false" />
-        <activity
             android:name=".activities.RegisterActivity"
             android:exported="false" />
         <activity
