@@ -38,7 +38,9 @@
                     android:layout_height="@dimen/btn_height_medium"
                     android:background="@drawable/custom_white_edit_text"
                     android:hint="Email"
-                    android:textSize="@dimen/text_size_medium"/>
+                    android:textSize="@dimen/text_size_medium" />
+
+
                 <Button
                     android:layout_width="match_parent"
                     android:layout_height="@dimen/btn_height_medium"
